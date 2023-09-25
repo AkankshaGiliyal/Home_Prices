@@ -28,3 +28,10 @@ The regression model exhibited a high R-squared value of 0.94, indicating that i
 
 Conclusion:
 In conclusion, this project provides valuable insights into the factors influencing US home prices over the last 20 years. By analyzing key economic indicators and their correlations with home prices, we have identified the factors that have had the most significant impact on the housing market. This analysis can be valuable for homeowners, investors, and policymakers seeking to understand and predict trends in the real estate market.
+
+![pic1](https://github.com/AkankshaGiliyal/Home_Prices/assets/108074183/7a2c8a3a-c66f-48e1-b536-5ea0dc8a56d4)
+
+![pic2](https://github.com/AkankshaGiliyal/Home_Prices/assets/108074183/00a4e467-04bb-4b24-93dc-3bdcf13ed9ae)
+![pic3](https://github.com/AkankshaGiliyal/Home_Prices/assets/108074183/857a296c-56e4-4e81-ad41-265b6907f44b)
+
+
